@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea9bf834-14f5-4dbc-802e-4186c36ca545" name="Default Changelist" comment="curso">
+      <change afterPath="$PROJECT_DIR$/tests/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.github/workflows/1.github_actions.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/1.github_actions.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,10 +27,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tests" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Renato\Downloads\CURSO DATA ENGINEERING\Data Engineering\AWS\tests" />
       <recent name="C:\Users\Renato\Downloads\CURSO DATA ENGINEERING\Data Engineering\AWS\venv" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
