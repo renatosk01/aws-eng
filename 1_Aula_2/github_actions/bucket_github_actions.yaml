@@ -1,0 +1,12 @@
+Description: Cria bucket no S3
+
+Resources:
+
+  BucketRenatoS3:
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName: bucket-renato-cursoeng-github-actions
+      BucketEncryption:
+        ServerSideEncryptionConfiguration:
+          - ServerSideEncryptionByDefault:
+              SSEAlgorithm: AES256
