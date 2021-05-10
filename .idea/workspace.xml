@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea9bf834-14f5-4dbc-802e-4186c36ca545" name="Default Changelist" comment="curso">
-      <change afterPath="$PROJECT_DIR$/venv/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/1.github_actions.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/1.github_actions.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
