@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea9bf834-14f5-4dbc-802e-4186c36ca545" name="Default Changelist" comment="curso" />
+    <list default="true" id="ea9bf834-14f5-4dbc-802e-4186c36ca545" name="Default Changelist" comment="curso">
+      <change afterPath="$PROJECT_DIR$/venv/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/requirements.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,9 +27,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Renato\Downloads\CURSO DATA ENGINEERING\Data Engineering\AWS\venv" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Renato\Downloads\CURSO DATA ENGINEERING\Data Engineering\AWS\1.Aula_2" />
     </key>
