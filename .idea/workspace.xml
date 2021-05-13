@@ -2,25 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea9bf834-14f5-4dbc-802e-4186c36ca545" name="Default Changelist" comment="curso">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/2.jinja_deploy.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.Aula_2/jinja/config.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.Aula_2/jinja/deploy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.Aula_2/jinja/processa_template.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.Aula_2/jinja/redshift.yaml.j2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
+
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -30,9 +19,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1sM0CkXCFcalx0CIRJSH6LsRgZS" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,49 +27,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.github/workflows" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Renato\Downloads\CURSO DATA ENGINEERING\Data Engineering\AWS\.github\workflows" />
-      <recent name="C:\Users\Renato\Downloads\CURSO DATA ENGINEERING\Data Engineering\AWS\1.Aula_2\jinja" />
-      <recent name="C:\Users\Renato\Downloads\CURSO DATA ENGINEERING\Data Engineering\AWS\tests" />
-      <recent name="C:\Users\Renato\Downloads\CURSO DATA ENGINEERING\Data Engineering\AWS\venv" />
-    </key>
+
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Renato\Downloads\CURSO DATA ENGINEERING\Data Engineering\AWS\1.Aula_2" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="processa_template" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\Renato\AppData\Local\Programs\Python\Python39\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.Aula_2/jinja" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.Aula_2/jinja/processa_template.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="true" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.processa_template" />
-        <item itemvalue="Python.processa_template" />
-      </list>
-    </recent_temporary>
-  </component>
+
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -109,9 +59,7 @@
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
-  <component name="UnknownFeatures">
-    <option featureType="com.intellij.fileTypeFactory" implementationName="*.j2" />
-  </component>
+
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -122,21 +70,11 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
+
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="curso" />
     <option name="LAST_COMMIT_MESSAGE" value="curso" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <default-breakpoints>
-        <breakpoint type="python-exception">
-          <properties notifyOnTerminate="true" exception="BaseException">
-            <option name="notifyOnTerminate" value="true" />
-          </properties>
-        </breakpoint>
-      </default-breakpoints>
-    </breakpoint-manager>
-  </component>
+
 </project>

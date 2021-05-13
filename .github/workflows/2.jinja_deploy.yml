@@ -4,7 +4,7 @@ name: Deploy S3 bucket
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   deploy:
