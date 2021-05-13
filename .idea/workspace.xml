@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea9bf834-14f5-4dbc-802e-4186c36ca545" name="Default Changelist" comment="jinja 2" />
+    <list default="true" id="ea9bf834-14f5-4dbc-802e-4186c36ca545" name="Default Changelist" comment="jinja - correncao RUN">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/2.jinja_deploy.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/2.jinja_deploy.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620932358447</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="jinja - correncao RUN">
+      <created>1620932691723</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1620932691723</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,6 +87,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="curso" />
     <MESSAGE value="jinja 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="jinja 2" />
+    <MESSAGE value="jinja - correncao RUN" />
+    <option name="LAST_COMMIT_MESSAGE" value="jinja - correncao RUN" />
   </component>
 </project>
